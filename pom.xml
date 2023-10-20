@@ -13,7 +13,7 @@
 
         <version.slf4j>1.7.32</version.slf4j>
         <version.logback>1.2.10</version.logback>
-        <santuario.xmlsec.version>2.2.3</santuario.xmlsec.version>
+        <santuario.xmlsec.version>2.2.6</santuario.xmlsec.version>
     </properties>
 
     <modules>
