@@ -12,7 +12,7 @@
         <javaee.version>8.0</javaee.version>
 
         <version.slf4j>1.7.32</version.slf4j>
-        <version.logback>1.2.10</version.logback>
+        <version.logback>1.2.13</version.logback>
         <santuario.xmlsec.version>2.2.3</santuario.xmlsec.version>
     </properties>
 
